@@ -1,1 +1,1 @@
-script that prints abosolute name of the currentworking directory
+script that prints absolute path name of the current working directory
